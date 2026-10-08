@@ -5,7 +5,7 @@ import os
 
 url = "http://localhost:9797/poll"
 
-file_path = r"C:\Users\ASUS\OneDrive - Université Côte d'Azur\imene_uni\L3\S6\ia_obj\first_data.csv"
+file_path = "first_data.csv"
 
 
 def extract_value(data, key):
