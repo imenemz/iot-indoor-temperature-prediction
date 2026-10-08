@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #load data
-df = pd.read_csv("First_data.csv")
+df = pd.read_csv("first_data.csv")
 
 #nettoyage des données vides 
 df = df.dropna()
